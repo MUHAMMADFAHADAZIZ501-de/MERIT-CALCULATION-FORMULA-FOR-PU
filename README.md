@@ -1,1 +1,1 @@
-# MERIT-CALCULATION-FORMULA-FOR-PU
+Guessing the Number game
